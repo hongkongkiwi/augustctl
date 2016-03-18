@@ -15,12 +15,12 @@
     "bluetooth"
   ],
   "dependencies": {
+    "asyncawait": "^0.7.4",
     "bluebird": "^2.9.34",
     "debug": "^2.2.0",
     "express": "^4.13.3",
     "morgan": "^1.6.1",
-    "noble": "^1.1.0",
-    "asyncawait": "^0.7.4"
+    "noble": "https://registry.npmjs.org/noble/-/noble-1.1.0.tgz"
   },
   "repository": {
     "type": "git",
